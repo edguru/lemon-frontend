@@ -1,0 +1,21 @@
+<svg width="87" height="35" viewBox="0 0 87 35" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g filter="url(#filter0_f_1_1187)">
+<path d="M164.173 28.2394L153.947 28.3669C147.305 28.4497 140.748 26.8773 134.866 23.7915L112.243 11.923C103.642 7.41105 94.0536 5.11186 84.3422 5.23296V5.23296C74.6309 5.35405 65.1025 7.89163 56.6173 12.6166L34.2972 25.0455C28.4941 28.277 21.9775 30.0125 15.3358 30.0953L4.1853 30.2343" stroke="url(#paint0_linear_1_1187)" stroke-width="0.5"/>
+</g>
+<defs>
+<filter id="filter0_f_1_1187" x="0.182617" y="0.978394" width="167.993" height="33.506" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feGaussianBlur stdDeviation="2" result="effect1_foregroundBlur_1_1187"/>
+</filter>
+<linearGradient id="paint0_linear_1_1187" x1="169.722" y1="28.1702" x2="-8.76168" y2="30.3958" gradientUnits="userSpaceOnUse">
+<stop stop-color="#624DE3" stop-opacity="0"/>
+<stop offset="0.19307" stop-color="#FA03FF"/>
+<stop offset="0.265625" stop-color="#1510FF"/>
+<stop offset="0.552083" stop-color="#624DE3"/>
+<stop offset="0.75" stop-color="#FA03FF"/>
+<stop offset="0.864583" stop-color="#1510FF"/>
+<stop offset="0.979167" stop-color="#624DE3" stop-opacity="0"/>
+</linearGradient>
+</defs>
+</svg>

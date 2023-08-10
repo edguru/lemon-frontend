@@ -1,0 +1,62 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url('https://fonts.googleapis.com/css2?family=Audiowide&family=Darker+Grotesque:wght@400;600&display=swap');
+
+html,body {
+  @apply leading-[normal] m-0;
+scroll-behavior: smooth;
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+/* *:hover {
+   outline:1px blue solid;
+} */
+
+.breakLine {
+  white-space: pre-line;
+  width: fit-content;
+  text-align: end;
+}
+
+.background_image--hearts {
+  background-repeat: repeat;
+  background-size: 400px;
+}
+.react-images__view-image {
+  margin: auto;
+}
+
+
+
+.font-Grotesque {
+  font-family: 'Darker Grotesque', sans-serif;
+}
+
+.font-Audiowide {
+  font-family: 'Audiowide', sans-serif;
+}
+
+.bg-dark {
+  background-color: #2D1C42;
+}
+
+.gcl-pink {
+  color: #ED00B8;
+}
+
+.gcl-teal {
+  color: #00D2D4;
+}
+
+body {
+  height: 100%;
+}
+
+.name-divide {
+  border-color: #EBFF00;
+}
+
+.CHILD {
+  height: inherit;
+}
